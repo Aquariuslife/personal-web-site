@@ -1,0 +1,76 @@
+{
+  "homepage": {
+    "part1": "哈喽",
+    "part2": "我叫周昱辰",
+    "part3": "前端小菜鸟",
+    "part4": "现在上海上班"
+  },
+  "navbar": {
+    "Home": "首页",
+    "Blogs": "博文",
+    "Vlogs": "Vlog",
+    "About": "关于我",
+    "Works": "交互设计",
+    "Contact": "联系我"
+  },
+  "logContent": {
+    "author": "作者",
+    "view": "浏览",
+    "comments": "评论",
+    "time": "时间",
+    "commentPlaceHolder": "说些什么吧",
+    "name": "昵称",
+    "namePlaceHolder": "留个昵称或者姓名吧",
+    "sendButton": "发送",
+    "emptyCommentTip": "留言板空的呃T_T.., 说些啥呗~",
+    "emptyVisitor": "大侠请留名T_T..",
+    "prev": "上一篇",
+    "next": "下一篇"
+  },
+  "message": {
+    "hello": "你好世界",
+    "slogan": "用自己的方式记录生活😎",
+    "blogIntro": "<p>有些视频并不是全在这里发布</p> <p>但是以上的所有视频内容和源文件</p> <p>都可以在其他媒体平台上看到和下载</p> <p>我所活跃的媒体平台有以下几个：</p> <p><a href=\"https://space.bilibili.com/44569674\" target=\"_blank\">👉Bilibili</a></p> <p><a href=\"http://i.youku.com\" target=\"_blank\">👉YouKu</a></p> <p><a href=\"https://www.youtube.com\">👉YouTube</a></p>"
+  },
+  "about": {
+    "part1": {
+      "title": "关于前端",
+      "content": "我今年开始接触前端，有近三个月的工作经验, 当时大学里开设了一门《HTML+CSS网页设计》课程让我印象颇深，真是太酷了，太神奇了!!! 原来我是一个视觉效果爱好者。我想成为一名前端工程师。这就是让我继续前进的动力。"
+    },
+    "part2": {
+      "title": "关于兴趣爱好",
+      "‘content": "我喜欢听迷幻摇滚，以及落日飞车等乐队的歌...。剪辑视频也是我的爱好之一，但近期事情一直比较多，所以也没有时间剪视频，我最近更新的视频还停留在2018年。🤣"
+    },
+    "part3": {
+      "title": "下一步",
+      "content": "继续学习新的东西尝试新的事物 <br> 挑战自己, 挑战极限."
+    }
+  },
+  "work": {
+    "click": "👇 点击这里 👇",
+    "tit1": "css丝滑滚动",
+    "tit2": "css在线调色",
+    "tit3": "灭霸响指特效",
+    "tit4": "霓虹灯效果",
+    "tit5": "闪屏故障特效",
+    "tit6": "瀑布流布局",
+    "tit7": "echarts地图下钻"
+  },
+  "contact": {
+    "placeholder": {
+      "one": "留个昵称或者邮箱噜🤡",
+      "two": "主题🎥",
+      "three": "请输入留言内容📃",
+      "four": "发送"
+    },
+    "mail": "Aquariuslifes@163.com",
+    "addr": "上海",
+    "social": "我的社交媒体👇",
+    "warning": "表格没填完整啦T_T||",
+    "first": "沙发是你了🤪",
+    "loadmore": "查看更多留言🕵️‍♂️",
+    "nomore": "你已经看完所有留言了🤷‍♂️",
+    "responsemsg": "哔~ 留言完毕~ 感谢支持"
+  },
+  "lang": "中/英"
+}

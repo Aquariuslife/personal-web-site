@@ -1,0 +1,76 @@
+{
+  "homepage": {
+    "part1": "Hello",
+    "part2": "I'm YuChen,Zhou.",
+    "part3": "Developer",
+    "part4": "Work in Shanghai"
+  },
+  "navbar": {
+    "Home": "Home",
+    "Blogs": "Blog",
+    "Vlogs": "Vlog",
+    "About": "About Me",
+    "Works": "Works",
+    "Contact": "Contact me"
+  },
+  "logContent": {
+    "author": "Author",
+    "view": "View",
+    "comments": "Comments",
+    "time": "Time",
+    "commentPlaceHolder": "just say something",
+    "name": "Name",
+    "namePlaceHolder": "Leave a nickname or email 🐷",
+    "sendButton": "send",
+    "emptyCommentTip": "The comment can`t be blank",
+    "emptyVisitor": "leave a name please~~~",
+    "prev": "prev",
+    "next": "next"
+  },
+  "message": {
+    "hello": "hello world",
+    "slogan": "So many ways to record life, I prefer to do it in my own way, Welcome to my life😎",
+    "blogIntro": "<p>Not all of my Vlogs are published here</p> <p>But you can view and download all of the Vlogs</p> <p>and origin AE & Pr project files from:</p> <p><a href=\"https://space.bilibili.com/44569674\" target=\"_blank\">👉Bilibili</a></p> <p><a href=\"http://i.youku.com\" target=\"_blank\">👉YouKu</a></p> <p><a href=\"https://www.youtube.com\">👉YouTube</a></p>"
+  },
+  "about": {
+    "part1": {
+      "title": "Front End Engineer",
+      "content": "I am a front end engineer with almost three months' experience, I started to get into this industrial in 2020. So then we had a course - 'HTML & CSS Web Design' during college which impressed me, that was so cool and so amazing!!! It turned out I was a visual effects lover. So I tried hard to teach myself html and css and catch up with JavaScript. I want to be a UI designer and front end engineer. That`s the motivation that keeps me moving on."
+    },
+    "part2": {
+      "title": "My Hobbies",
+      "‘content": "I like to listen to psychedelic rock, and bands like Sunset Rollercoaster, Cigarette After Sex, etc... Editing videos is also one of my hobbies, but lately there has been a lot going on and I haven't had time to edit, so my latest video updates are still stuck in 2018. 🤣"
+    },
+    "part3": {
+      "title": "Next Movement",
+      "content": "Keep trying and learing new things <br> Keep challenge my limits and striving for excellence"
+    }
+  },
+  "work": {
+    "click": "👇 Chcek Here 👇",
+    "tit1": "scroll-behavior",
+    "tit2": "css-change-color",
+    "tit3": "thanos-snap-effect",
+    "tit4": "light-effects",
+    "tit5": "Glitch-effects",
+    "tit6": "WaterFall-effects",
+    "tit7": "Map-Drill-Down"
+  },
+  "contact": {
+    "placeholder": {
+      "one": "Email or name",
+      "two": "Subject",
+      "three": "Enter your message",
+      "four": "send"
+    },
+    "mail": "Aquariuslifes@163.com",
+    "addr": "Shanghai China",
+    "social": "Follow me on social networks",
+    "warning": "Fullfill the form please",
+    "first": "leave the first message 🤪",
+    "loadmore": "loadmore🕵️‍♂️",
+    "nomore": "there is no more🤷‍♂️",
+    "responsemsg": "thanks for your comment"
+  },
+  "lang": "Cn/En"
+}
