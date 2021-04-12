@@ -7,7 +7,9 @@
           <div class="col-xs-12">
             <div class="section-container-spacer text-center">
               <!-- <h1 class="h2">About me</h1> -->
-              <h1 class="h2" style="cursor:pointer">{{$t("navbar.About")}}</h1>
+              <h1 class="h2" style="cursor:pointer">
+                {{ $t("navbar.About") }}
+              </h1>
             </div>
 
             <div class="row">
@@ -41,9 +43,20 @@
                   </div>
                   <div class="col-xs-12 col-md-6">
                     <div id="profil_img">
-                      <img src="../../../assets/images/pic_loading.jpg" class="img-responsive loading">
-                      <img src="../../../assets/images/me.jpg" class="img-responsive old" alt />
-                      <img src="../../../assets/images/me.jpg" class="img-responsive young" alt />
+                      <img
+                        src="../../../assets/images/pic_loading.jpg"
+                        class="img-responsive loading"
+                      />
+                      <img
+                        src="../../../assets/images/me.jpg"
+                        class="img-responsive old"
+                        alt
+                      />
+                      <img
+                        src="../../../assets/images/mee.edit.jpg"
+                        class="img-responsive young"
+                        alt
+                      />
                     </div>
                   </div>
                 </div>
@@ -82,24 +95,24 @@ export default {
 #profil_img {
   position: relative;
   img {
-	position: absolute;
-	z-index: 99;
+    position: absolute;
+    z-index: 99;
   }
-  img.loading:first-child{
-	  position: unset;
+  img.loading:first-child {
+    position: unset;
   }
-  img.old{
-	  z-index: 98;
-	  transition: opacity .3s;
+  img.old {
+    z-index: 98;
+    transition: opacity 0.3s;
   }
-  img.old:hover{
-	  opacity: 0;
+  img.old:hover {
+    opacity: 0;
   }
-  img.young{
-	  z-index: 97;
+  img.young {
+    z-index: 97;
   }
-  img:not(.loading){
-	  top:0;
+  img:not(.loading) {
+    top: 0;
   }
 }
 </style>
